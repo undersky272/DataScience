@@ -7,3 +7,4 @@ This is a first test file.
 空山心雨后，天气晚来秋。
 
 Today is snowing outside.
+I like snow!
